@@ -1,0 +1,25 @@
+Actua como el creador de contenidos de una agencia de márketing.
+Necesito crear contenidos para la página web de una consultora 
+de negocios.
+El nombre de la consultora es "Iniciativa"
+El contenido debe ser original y no ha de estar sacado de internet.
+
+
+
+----------------------------------------------------------------
+Quiero un texto breve para una sección de bienvenida en la página web principal.
+
+
+----------------------------------------------------------------
+La consultora ofrece los siguientes servicios:
+
+- Apertura de Negocios.
+- Liquidación de Impuestos.
+- Elaboración de Proyectos de Inversión.
+- Gestiones de Registros Import - Export.
+- Tramites de Registros de Marcas y Patentes Industriales.
+- Venta de Software de Gestión Integral.
+- Organización, Sistemas y Métodos.
+
+Necesito 1 párrafo para cada item de la lista que hable del 
+servicio que se ofrece.
